@@ -1,0 +1,4 @@
+region_id,avg_rainfall,storm_frequency,temperature_variance
+region_1,900,2,6
+region_2,1400,6,12
+region_3,600,1,4

@@ -1,0 +1,4 @@
+region_id,tower_density,avg_uptime,backhaul_redundancy
+region_1,3,0.96,0.4
+region_2,1,0.82,0.1
+region_3,5,0.98,0.7
