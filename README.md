@@ -138,8 +138,8 @@ Try **Connect All** live and explore rural broadband risk visualization for Indi
 | Member | Role |
 | :--- | :--- |
 | **Athar Shaikh** | Lead Developer |
-| **Sujal Belkhode** | ML Engineer |
-| **Kaustubh Chauhan** | Frontend Arch |
+| **Sujal Belkhode** | Frontend Arch |
+| **Kaustubh Chauhan** | ML Engineer|
 | **Kaifoddin Kazi** | Data Analyst |
 
 ---
